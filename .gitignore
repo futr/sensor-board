@@ -1,0 +1,9 @@
+# temp files
+*.o
+*.lst
+*.map
+*.elf
+
+# QtCreator
+*.user*
+
